@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.tsbuildinfo
+*.log
+.vite/
+
+.vscode/
+.idea/
+
+.env
+.env.*
+.DS_Store
+
+CLAUDE.md
+CLAUDE.local.md
+.claude/
